@@ -1,5 +1,7 @@
 # Encrypt and Decrypt Files
 
+Scripts that help encrypt and decrypt files
+
 ## Usage
 
 - Instal requirements
